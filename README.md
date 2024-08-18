@@ -18,7 +18,7 @@ repair Manuals: Detailed, step-by-step instructions on car maintenance and repai
 
 ## 🤖Try Mech-Bot:
 you can try asking mech-bot some cars related questions
-link to mech-bot in Hugging Face spaces: <a href="https://huggingface.co/spaces/shdnalssheddi/mech-bot">Try Mech-Bot</a>
+link to mech-bot in Hugging Face spaces: <a href="https://huggingface.co/spaces/Khaledmd12/Mech-Bot">Try Mech-Bot</a>
 
 
 
